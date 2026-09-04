@@ -3,6 +3,9 @@
  */
 
 package com.mycompany.proyecto1;
+import modelo.Animal;
+import servicios.GestorAnimales;
+import servicios.GestorBitacora;
 
 /**
  *

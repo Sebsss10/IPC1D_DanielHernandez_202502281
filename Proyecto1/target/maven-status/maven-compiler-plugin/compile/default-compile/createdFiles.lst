@@ -1,0 +1,7 @@
+modelo\EntradaBitacora.class
+modelo\Animal.class
+com\mycompany\proyecto1\Proyecto1.class
+persistencia\ArchivoUtil.class
+util\validaciones.class
+servicios\GestorAnimales.class
+servicios\GestorBitacora.class
