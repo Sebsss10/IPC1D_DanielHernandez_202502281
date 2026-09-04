@@ -1,9 +1,14 @@
-modelo\EntradaBitacora.class
-modelo\Adoptante.class
 modelo\Animal.class
 com\mycompany\proyecto1\Proyecto1.class
-servicios\GestorAdoptantes.class
 persistencia\ArchivoUtil.class
+servicios\GestorUbicaciones.class
 util\validaciones.class
+modelo\Solicitud.class
+modelo\Rescate.class
+modelo\EntradaBitacora.class
+servicios\GestorSolicitudes.class
+modelo\Adoptante.class
+servicios\GestorAdoptantes.class
 servicios\GestorAnimales.class
+servicios\GestorRescates.class
 servicios\GestorBitacora.class

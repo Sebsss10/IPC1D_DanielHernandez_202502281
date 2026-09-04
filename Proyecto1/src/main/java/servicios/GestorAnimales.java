@@ -63,6 +63,17 @@ public class GestorAnimales {
         bitacora.registrarAccion(usuarioActual, "ANIMALES", "EDITAR", "Animal " + codigo + " -> " + nuevoEstadoClinico);
         return true;
     }
+    
+    public boolean editarEstadoAdopcion(String usuarioActual, String codigo, String nuevoEstadoAdopcion) {
+    Animal animal = buscarPorCodigo(codigo);
+    if (animal == null || !validaciones.esEstadoAdopcionValido(nuevoEstadoAdopcion)) {
+        bitacora.registrarError(usuarioActual, "ANIMALES", "VALIDACION", "No se pudo cambiar estado de adopción: " + codigo);
+        return false;
+    }
+    animal.setEstadoAdopcion(nuevoEstadoAdopcion);
+    bitacora.registrarAccion(usuarioActual, "ANIMALES", "EDITAR", "Animal " + codigo + " -> " + nuevoEstadoAdopcion);
+    return true;
+}
 
     public boolean eliminarLogico(String usuarioActual, String codigo) {
         Animal animal = buscarPorCodigo(codigo);
