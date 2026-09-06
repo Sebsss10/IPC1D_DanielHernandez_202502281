@@ -4,11 +4,14 @@ C:\Users\herna\OneDrive\Escritorio\Proyecto1\src\main\java\modelo\Animal.java
 C:\Users\herna\OneDrive\Escritorio\Proyecto1\src\main\java\modelo\EntradaBitacora.java
 C:\Users\herna\OneDrive\Escritorio\Proyecto1\src\main\java\modelo\Rescate.java
 C:\Users\herna\OneDrive\Escritorio\Proyecto1\src\main\java\modelo\Solicitud.java
+C:\Users\herna\OneDrive\Escritorio\Proyecto1\src\main\java\modelo\Usuario.java
 C:\Users\herna\OneDrive\Escritorio\Proyecto1\src\main\java\persistencia\ArchivoUtil.java
+C:\Users\herna\OneDrive\Escritorio\Proyecto1\src\main\java\reportes\ReporteHTML.java
 C:\Users\herna\OneDrive\Escritorio\Proyecto1\src\main\java\servicios\GestorAdoptantes.java
 C:\Users\herna\OneDrive\Escritorio\Proyecto1\src\main\java\servicios\GestorAnimales.java
 C:\Users\herna\OneDrive\Escritorio\Proyecto1\src\main\java\servicios\GestorBitacora.java
 C:\Users\herna\OneDrive\Escritorio\Proyecto1\src\main\java\servicios\GestorRescates.java
 C:\Users\herna\OneDrive\Escritorio\Proyecto1\src\main\java\servicios\GestorSolicitudes.java
 C:\Users\herna\OneDrive\Escritorio\Proyecto1\src\main\java\servicios\GestorUbicaciones.java
+C:\Users\herna\OneDrive\Escritorio\Proyecto1\src\main\java\servicios\GestorUsuarios.java
 C:\Users\herna\OneDrive\Escritorio\Proyecto1\src\main\java\util\validaciones.java

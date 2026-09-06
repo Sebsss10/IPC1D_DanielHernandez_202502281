@@ -8,7 +8,10 @@ modelo\Rescate.class
 modelo\EntradaBitacora.class
 servicios\GestorSolicitudes.class
 modelo\Adoptante.class
+reportes\ReporteHTML.class
 servicios\GestorAdoptantes.class
 servicios\GestorAnimales.class
 servicios\GestorRescates.class
+servicios\GestorUsuarios.class
+modelo\Usuario.class
 servicios\GestorBitacora.class
