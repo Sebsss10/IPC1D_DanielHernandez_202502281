@@ -11,7 +11,9 @@ modelo\Adoptante.class
 reportes\ReporteHTML.class
 servicios\GestorAdoptantes.class
 servicios\GestorAnimales.class
+vista\VentanaLogin.class
 servicios\GestorRescates.class
 servicios\GestorUsuarios.class
+vista\VentanaPrincipal.class
 modelo\Usuario.class
 servicios\GestorBitacora.class

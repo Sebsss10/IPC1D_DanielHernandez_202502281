@@ -12,3 +12,4 @@
 03/09/2026 21:39|admin1|UBICACIONES|LIBERAR|Celda [0][3] liberada (A-014)
 06/09/2026 12:18|admin1|ANIMALES|ALTA|Animal A-014 registrado
 06/09/2026 12:19|admin1|ANIMALES|ALTA|Animal A-014 registrado
+06/09/2026 12:45|admin1|AUTENTICACION|LOGIN_OK|Inicio de sesión correcto
