@@ -13,3 +13,5 @@
 06/09/2026 12:18|admin1|ANIMALES|ALTA|Animal A-014 registrado
 06/09/2026 12:19|admin1|ANIMALES|ALTA|Animal A-014 registrado
 06/09/2026 12:45|admin1|AUTENTICACION|LOGIN_OK|Inicio de sesión correcto
+06/09/2026 15:08|admin1|AUTENTICACION|LOGIN_OK|Inicio de sesión correcto
+06/09/2026 15:08|admin1|ANIMALES|ALTA|Animal A-020 registrado
